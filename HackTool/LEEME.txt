@@ -1,0 +1,52 @@
+
+|=============================================================|
+|========================== RELEASE ==========================|
+|=============================================================|
+|                    ::::::AZX tEaM::::::                     |
+|=============================================================|
+|=============================================================|
+
+                    -FORTNITE HACKTOOL v0.1
+                    ~~~~~~~~~~~~~~~~~~~~~~~~
+
+                        CARACTERÍSTICAS
+                        ---------------
+                Añadir AimBot (By headShoot_v0.1)
+                Añadir paVos  (leer nota al final)
+                Desbloquear pase de batalla
+                  --------------------------
+                  ---- Más próximamente ----
+
+                           AZX Team
+                       ---------------
+                    @Mykjao   --> Cracker
+                    MrPkpCkrn --> Ripper
+                    HrVucolo  --> R.Engineer
+                    m4l0n3    --> Coder
+                    th37ulm   --> UI/UX
+
+                             USO
+                        ---------------
+
+ 1.- ¡IMPORTANTE!: Desactivar AntiVirus, si te aparece un aviso, es normal,
+                   técnicamente el programa es un "virus", los antivirus lo
+                   clasifican como "HackTool", o herramientas de trucos
+                    ______________________________________________________
+         NOTA -->  |No te preocupes, Fortnite HackTool no va a dañar tu PC|
+                   |______________________________________________________|
+
+ 2.- Extrae el rar, la contraseña es "hacktoolbyazxteam" (sin comillas)
+ 3.- Haz doble click en "Fortnite_HT" 
+ 4.- Para los hacks "Cargar paVos" y "Desbloquear Pase de Batalla" tienes que
+     iniciar sesión (el programa no te avisará, es un error que solucionaremos)
+
+     Para "Activar AimBot" no es necesario, la herramienta busca automáticamente
+     la instalación de Fortnite y hackea el punto de entrada para añadir el Bot
+
+                    ______________________________________________________
+         NOTA -->  |Es normal que Fortnite HackTool te pida accceso a in- |
+	           |ternet, tiene que descargar los archivos de AimBot    |
+                   |______________________________________________________|
+
+
+ 
